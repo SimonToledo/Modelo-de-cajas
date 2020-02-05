@@ -4,7 +4,7 @@
 
 }
 .square1{
-  height: 75px;
+  height: 80px;
   width: 300px;
 
 }
@@ -61,4 +61,12 @@
   height: 180px;
   width: 300px;
   border: 2px solid black;
+}
+.caja{
+  margin:15px;
+  display: inline-block;
+}
+.caja1{
+  margin:15px;
+  display: inline-block;
 }
