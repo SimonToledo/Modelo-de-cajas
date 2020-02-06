@@ -1,0 +1,12 @@
+.entrega-48hrs{
+  position: relative;
+  z-index: 1;
+  top:25rem;
+  left:25rem;
+
+}
+.bateria-externa{
+  position: absolute;
+  width: 40%;
+  z-index: -1;
+  }

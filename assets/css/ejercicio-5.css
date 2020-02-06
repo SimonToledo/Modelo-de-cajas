@@ -1,6 +1,8 @@
-.lentes-vr{
-  z-index: -1;
-}
 .ribbon{
+  position: absolute;
   z-index: 1;
+}
+.lentes-vr{
+  position: absolute;
+  z-index: -1;
 }
